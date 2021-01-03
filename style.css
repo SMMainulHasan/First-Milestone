@@ -1,0 +1,18 @@
+h1{
+    color: #ff4800;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blog{
+    border-radius: 20px;
+    margin:10px;
+    background-color: #d8d3d3;
+    padding:10px 30px;
+    width: 27%;
+    /* float: left; */
+    display: inline-block;
+}
+.place{
+    color:turquoise;
+}
+p{text-align: justify;}
